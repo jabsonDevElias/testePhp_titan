@@ -1,0 +1,18 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+.formulario{
+ margin: 10px auto;
+ width: 60%;
+ background-color: #ccc;
+ border-radius: 2px;
+ padding: 4px;
+
+}
+
+.btns{
+ margin: 5px 0;
+}
